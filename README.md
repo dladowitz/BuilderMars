@@ -17,4 +17,4 @@ Here are some example topics:
 6. Use cases for bitcoin
 7. The impact of tax and policies for product builders
 
-The meetup will occur at Presidio Bitcoin every fourth Thursday of the month. Follow [@bbBuilderSF](https://x.com/bbBuilderSF) for updates. Let’s get ₿uilding!
+The meetup will occur at Presidio Bitcoin every fourth Thursday of the month. Follow [@btcbuilderSF](https://x.com/bbBuilderSF) for updates. Let’s get ₿uilding!
