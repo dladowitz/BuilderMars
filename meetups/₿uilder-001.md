@@ -18,7 +18,7 @@ News
 - [Clarity Act heads to House floor for Vote](https://bitcoinmagazine.com/news/the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact)
     - BRCA Included in market structure bill, the [Clarity Act](https://x.com/TheBlueMatt/status/1931875497388245195)
     - [Save our Wallets](https://saveourwallets.org) 
-- [Start9 moves Knots to the Main Registry.](https://x.com/UnderCoercion/status/1934943172872044892) Previously in the Community Registry
+- [Start9 moves Knots to the Main Registry.](https://x.com/start9labs/status/1934983769863364785) Previously in the Community Registry
 	- [Knots at 13% market share](https://x.com/UnderCoercion/status/1934943172872044892)
 - [Square is earning 9.7% yield](https://www.coindesk.com/tech/2025/05/29/square-flies-the-flag-for-the-lightning-network-with-97-yield-on-bitcoin-holdings) on its C= Lighting Service Provider
 	- [Bitrefill reports 3.5% yield](https://x.com/bitrefill/status/1930217463779676334)
