@@ -50,7 +50,7 @@ Discussion
 - [Boardwalk Cash redenomination of bitcoin units.](https://boardwalkcash.com/wallet) A live example on how “1 Satoshi” can be displayed as “1 Bitcoin”.
 - [Sparrow 2.2.0 with Accessibility Improvements](https://github.com/sparrowwallet/sparrow/releases/tag/2.2.0)
 - Daniel North (Bitcoin Design Foundation) on the [21 in 21 Podcast](https://www.youtube.com/watch?v=Q-PaXGrRehs)
-- [How can Lianna Wallet support Payjoins Video Call
+- [How can Lianna Wallet support Payjoins UX Video Call
 ](https://www.youtube.com/watch?v=gBY0q9a1mwU)
 - [Bitcoin Designathon 2](https://bitcoindesign.substack.com/p/the-bitcoin-designathon-2)
 - Bitcoin 2025 Hackathon Winner: Best Design -> [Arcana Seed Lodge](https://devpost.com/software/arcana-seed-lodge)
