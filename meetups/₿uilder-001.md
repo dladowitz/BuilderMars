@@ -53,7 +53,7 @@ Discussion
 - [How can Lianna Wallet support Payjoins Video Call
 ](https://www.youtube.com/watch?v=gBY0q9a1mwU)
 - [Bitcoin Designathon 2](https://bitcoindesign.substack.com/p/the-bitcoin-designathon-2)
-- Bitcoin 2025 Hackathon: Best Design -> [Arcana Seed Lodge](https://devpost.com/software/arcana-seed-lodge)
+- Bitcoin 2025 Hackathon Winner: Best Design -> [Arcana Seed Lodge](https://devpost.com/software/arcana-seed-lodge)
 - [Braiins is looking for a Content Lead](https://jobs.ashbyhq.com/Braiins/93cc7d3c-a162-4516-afe0-45c1449e6e8b)
 
 
