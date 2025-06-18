@@ -1,4 +1,4 @@
-+++
+![image](https://github.com/user-attachments/assets/2bcc071c-3400-49a1-816a-60752bd963b4)+++
 title = "₿uilder 001"
 date = 2025-06-26
 +++
@@ -15,7 +15,11 @@ Housekeeping
 
 News
 ----
-- 
+- [Clarity Act heads to House floor for Vote](https://bitcoinmagazine.com/news/the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact)
+		○ BRCA Included in market structure bill, the [Clarity Act](https://x.com/TheBlueMatt/status/1931875497388245195)
+		○ [Save our Wallets](https://saveourwallets.org) 
+	
+
 
 Discussion
 ----------
