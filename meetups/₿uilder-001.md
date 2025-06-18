@@ -37,7 +37,7 @@ Discussion
 	- [Crypto.com Card](https://crypto.com/us/cards): 1.5% - 6% in Native CRO token
 - [Bitkey Introduces Security Hub](https://bitkey.build/introducing-security-hub-your-bitkey-security-setup-all-in-one-place/)
 - [Amboss Launches Rails](https://bitcoinmagazine.com/news/amboss-launches-rails-a-self-custodial-bitcoin-yield-service), a Self Custody Bitcoin Yield Service
--[Foundation will release Passport Prime in Q3](https://bitcoinmagazine.com/business/passport-prime-a-new-security-device-for-a-new-generation)
+- [Foundation will release Passport Prime in Q3](https://bitcoinmagazine.com/business/passport-prime-a-new-security-device-for-a-new-generation)
 - [COLDCARD Co-Sign (CCC)](https://www.youtube.com/watch?v=MjMPDUWWegw)
 - [Steak N Shake reports 50% savings on processing fees when using BTC](https://bitcoinmagazine.com/news/steak-n-shake-reveals-bitcoin-payment-success-at-bitcoin-2025-conference)
 - [Xverse integrates Lightning via Sati](https://bitcoinmagazine.com/press-releases/1-5-million-users-to-access-bitcoins-lightning-network-on-xverse-thanks-to-sati)
@@ -53,8 +53,7 @@ Discussion
 - [How can Lianna Wallet support Payjoins Video Call
 ](https://www.youtube.com/watch?v=gBY0q9a1mwU)
 - [Bitcoin Designathon 2](https://bitcoindesign.substack.com/p/the-bitcoin-designathon-2)
-- Bitcoin 2025 Hackathon: Best Design -> [Arcana Seed Lodge](https://devpost.com/software/
-arcana-seed-lodge)
+- Bitcoin 2025 Hackathon: Best Design -> [Arcana Seed Lodge](https://devpost.com/software/arcana-seed-lodge)
 - [Braiins is looking for a Content Lead](https://jobs.ashbyhq.com/Braiins/93cc7d3c-a162-4516-afe0-45c1449e6e8b)
 
 
