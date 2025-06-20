@@ -19,6 +19,7 @@ jobs:
       run: |
         zola serve &
         sleep 1
+        ./bin/check-links
         kill $(jobs -p)
     - run: zola build
     - name: Deploy
