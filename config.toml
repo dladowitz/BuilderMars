@@ -1,4 +1,4 @@
-base_url = "https://bitcoinbuildersf.org/"
+base_url = "/"
 compile_sass = false
 build_search_index = false
 generate_feeds = true
