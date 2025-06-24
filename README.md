@@ -10,7 +10,7 @@ Audience participation is not only encouraged but is a required part of this mee
 
 Here are some example topics:
 1. New bitcoin products
-2. Tools such as vibecoding, SDKs, and design guides
+2. Tools such as vibe coding, SDKs, and design guides
 3. Metrics covering bitcoin usage
 4. Bitcoin design best practices
 5. Emerging and potential bitcoin startups
