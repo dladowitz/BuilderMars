@@ -64,8 +64,7 @@ date = 2025-06-26
 - ₿-only convention for displaying bitcoin quantities
   - [BIP-177](https://github.com/bitcoin/bips/pull/1821) describes a new approach to bitcoin units that deprecates both the use of decimals and the usage of “sats/satoshis”
   - New page added to [Design guide](https://bitcoin.design/guide/designing-products/units-and-symbols/) with proposed best practices
-  - [Boardwalk Cash is an example of a product leading and embracing the change.](https://boardwalkcash.com/wallet)
-  - DEMO idea? Can we see live example on how “1 Satoshi” can be displayed as “1 Bitcoin”
+  - [Boardwalk Cash is an example of a product leading and embracing the change](https://boardwalkcash.com/wallet)
 - Seedless is safer debate
 
 ---
