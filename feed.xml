@@ -91,8 +91,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1821&quot;&gt;BIP-177&lt;&#x2F;a&gt; describes a new approach to bitcoin units that deprecates both the use of decimals and the usage of “sats&#x2F;satoshis”&lt;&#x2F;li&gt;
 &lt;li&gt;New page added to &lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.design&#x2F;guide&#x2F;designing-products&#x2F;units-and-symbols&#x2F;&quot;&gt;Design guide&lt;&#x2F;a&gt; with proposed best practices&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boardwalkcash.com&#x2F;wallet&quot;&gt;Boardwalk Cash is an example of a product leading and embracing the change.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;DEMO idea? Can we see live example on how “1 Satoshi” can be displayed as “1 Bitcoin”&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boardwalkcash.com&#x2F;wallet&quot;&gt;Boardwalk Cash is an example of a product leading and embracing the change&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;Seedless is safer debate&lt;&#x2F;li&gt;
