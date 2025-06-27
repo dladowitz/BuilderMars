@@ -23,7 +23,7 @@ date = 2025-06-26
 - Anyone?
 
 ## Startup Showcase
-- Anyone?
+- Agicash
 
 ---
 
