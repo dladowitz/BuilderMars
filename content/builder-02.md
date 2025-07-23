@@ -16,7 +16,7 @@ date = 2025-07-24
 
 ## Vibe-Coded App Showcase (15 min)
 - Mat Balez Zero to Bitcoin App in under 15 minutes
-- sando?
+- Damian demo'ing Sando
 
 ## Startup Showcase (0 min) 
 - 
