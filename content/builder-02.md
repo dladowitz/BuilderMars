@@ -1,11 +1,7 @@
-<!--
 +++
 title = "₿uilder 2"
 date = 2025-07-24
 +++
--->
-
-# ₿uilder 2
 
 ## Intro (5 min)
 
