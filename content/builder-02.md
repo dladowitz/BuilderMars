@@ -14,16 +14,16 @@ date = 2025-07-24
 
 ---
 
-## Vibe-Coded App Showcase (15 min)
+## Vibe-Coded App Showcase (30 min)
 - Mat Balez Zero to Bitcoin App in under 15 minutes
 - Damian demo'ing Sando
 
-## Startup Showcase (0 min) 
-- 
+## Startup Showcase (10 min) 
+- David Bryson checkout.tech demo
 
 ---
 
-## Discussions (70 min)
+## Discussions (60 min)
 
 - “maybe human money and machine money will be totally different things” https://x.com/sama/status/1945541270438646270 
 - Why build with bitcoin vs. stablecoins?
@@ -34,7 +34,7 @@ date = 2025-07-24
 
 ---
 
-## News (30 min) 
+## News (15 min) 
 
 - Simple Proof. How does it compare to OpenTimestamps? Why hasn’t a product like this found product-market fit yet? https://stacker.news/items/1041737/r/dk
 - Coinbase integrates farcaster … can an everything-app like Base catalyze payments? https://x.com/base/status/1945624674656030985 
