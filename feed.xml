@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title></title>
-	<link href="https://dladowitz.github.io/BuilderMars/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://dladowitz.github.io/BuilderMars/"/>
+	<link href="https://buildermars.com/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://buildermars.com"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2025-07-24T00:00:00+00:00</updated>
-	<id>https://dladowitz.github.io/BuilderMars/feed.xml</id>
+	<id>https://buildermars.com/feed.xml</id>
 	<entry xml:lang="en">
 		<title>₿uilder 2</title>
 		<published>2025-07-24T00:00:00+00:00</published>
 		<updated>2025-07-24T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://dladowitz.github.io/BuilderMars/builder-02/" type="text/html"/>
-		<id>https://dladowitz.github.io/BuilderMars/builder-02/</id>
+		<link rel="alternate" href="https://buildermars.com/builder-02/" type="text/html"/>
+		<id>https://buildermars.com/builder-02/</id>
 		<content type="html">&lt;h2 id=&quot;intro-5-min&quot;&gt;Intro (5 min)&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Chatham house rules. No photos&#x2F;videos.&lt;&#x2F;li&gt;
@@ -58,8 +58,8 @@
 		<title>₿uilder 1</title>
 		<published>2025-06-26T00:00:00+00:00</published>
 		<updated>2025-06-26T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://dladowitz.github.io/BuilderMars/builder-01/" type="text/html"/>
-		<id>https://dladowitz.github.io/BuilderMars/builder-01/</id>
+		<link rel="alternate" href="https://buildermars.com/builder-01/" type="text/html"/>
+		<id>https://buildermars.com/builder-01/</id>
 		<content type="html">&lt;h2 id=&quot;intro-10-min&quot;&gt;Intro (10 min)&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Chatham House Rules — No photos&#x2F;videos&lt;&#x2F;li&gt;
