@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bitcoinbuildersf.github.io/BitcoinBuilderSF/sitemap.xml
+Sitemap: https://dladowitz.github.io/BuilderMars/sitemap.xml
