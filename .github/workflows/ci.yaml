@@ -22,6 +22,7 @@ jobs:
         ./bin/check-links
         kill $(jobs -p)
     - run: zola build
+    - run: cp CNAME public/
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/main'
