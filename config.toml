@@ -1,4 +1,4 @@
-base_url = "https://dladowitz.github.io/BuilderMars/"
+base_url = "https://buildermars.com"
 compile_sass = false
 build_search_index = false
 generate_feeds = true
